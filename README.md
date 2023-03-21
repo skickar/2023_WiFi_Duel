@@ -9,7 +9,7 @@ To use this game:
 
 1) Connect two D1 Mini boards together via i2c
 
-2) Flash the AP sketch to one board, the Reciever sketch to the other using Arduino or https://hakcat-tech.github.io/esp-web-flasher/
+2) Flash the AP sketch to one board, the Reciever sketch to the other using. You can either use Arduino for the .INO files, or https://hakcat-tech.github.io/esp-web-flasher/ for the .BIN files.
 
 3) Connect the board flashed with the AP sketch, open a serial monitor in Arduino with baud rate 115200
 
