@@ -1,5 +1,8 @@
 # 2023_WiFi_Duel
-2023 update to the Wi-Fi Duel
+2023 update to the Wi-Fi Duel updated for new D1 Mini with i2c
+
+
+![New D1 Mini](https://www.wemos.cc/en/latest/_static/boards/d1_mini_v4.0.0_1_16x16.png)
 
 Shoot em up wifi game
 
